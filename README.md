@@ -11,3 +11,4 @@
 gian.baumm@students.unibe.ch
 # manual (where to find what in the code)
 # pitfalls (what could go wrong)
+# generate QR-CODe with the link to the overview (which links directly to the folder an readme file) 
